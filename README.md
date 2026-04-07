@@ -17,17 +17,12 @@ Replace this paragraph with your own summary of what your version does.
 
 ## How The System Works
 
-Explain your design in plain language.
-
-Some prompts to answer:
-
-- What features does each `Song` use in your system
-  - For example: genre, mood, energy, tempo
-- What information does your `UserProfile` store
-- How does your `Recommender` compute a score for each song
-- How do you choose which songs to recommend
-
-You can include a simple diagram or bullet list if helpful.
+In my design, a Song dict will have features like genre, mood, energy, acousticness, etc. UserProfile dict will have preferences like favorite_genre, favorite_mood, target_energy, and likes_acoustic. The recommender will compute a score like this:
+- set score = 0.0
+- if the song = favorite_genre, add 2.0 to score
+- if the song = favorite_mood, add another 2.0
+- calculate energy by comparing how similar it is to user's preference (1 - energy_diff) * 1.5
+- continue the same pattern with other features
 
 ---
 
