@@ -25,6 +25,8 @@ In my design, a Song dict will have features like genre, mood, energy, acousticn
 - continue the same pattern with other features
 
 ---
+## Screenshots
+<img width="656" height="561" alt="Screenshot 2026-04-07 at 1 32 48 PM" src="https://github.com/user-attachments/assets/915df9cc-5875-4532-937a-2283e7ccebbb" />
 
 ## Getting Started
 
