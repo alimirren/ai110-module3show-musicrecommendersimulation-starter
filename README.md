@@ -30,7 +30,6 @@ In my design, a Song dict will have features like genre, mood, energy, acousticn
 
 ## System Evaluation Screenshots
 <img width="493" height="583" alt="Screenshot 2026-04-08 at 2 06 26 PM" src="https://github.com/user-attachments/assets/927c3977-0cd3-410b-8168-06c1fed639dd" />
-<img width="656" height="561" alt="Screenshot 2026-04-07 at 1 32 48 PM" src="https://github.com/user-attachments/assets/c16ab058-d19f-4136-8cd4-3f8eba5b9ad8" />
 <img width="620" height="545" alt="Screenshot 2026-04-08 at 2 06 33 PM" src="https://github.com/user-attachments/assets/47a23a3d-dfc0-49a6-9e3f-361be9018905" />
 <img width="637" height="549" alt="Screenshot 2026-04-08 at 2 06 43 PM" src="https://github.com/user-attachments/assets/84ecd2e5-ddb7-478e-8681-18ad1d682e03" />
 <img width="560" height="568" alt="Screenshot 2026-04-08 at 2 06 51 PM" src="https://github.com/user-attachments/assets/deedd682-76a1-45e0-8aec-c33e89c80636" />
